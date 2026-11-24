@@ -1,4 +1,4 @@
-![Momen Arman](./assets/heritage-event-cover.jpg)
+![Momen Arman](./assets/banner.svg)
 
 <h1 align="center">Hi 👋, I'm Momen Arman</h1>
 <p align="center"><strong>Computer Engineering Student</strong><br>Interested in artificial intelligence</p>
