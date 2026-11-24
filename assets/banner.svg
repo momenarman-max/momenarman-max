@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Momen Arman">
+<defs>
+ <path id="mark" d="M0 78 66 12 82 28 98 12 164 78 143 99 98 54 82 70 66 54 21 99Z" fill="#7045fa"/>
+ <path id="core" d="m44 77 22-22 16 16 16-16 22 22-22 22-16-16-16 16Z" fill="#23c98a"/>
+</defs>
+<rect width="1200" height="560" fill="#060620"/>
+<g transform="translate(865 360) scale(2.8)" opacity=".18"><use href="#mark"/><use href="#core"/></g>
+<g transform="translate(405 221)"><use href="#mark"/><use href="#core"/></g>
+<text x="596" y="268" fill="#f7f7ff" font-family="Segoe UI,Arial,sans-serif" font-weight="650" font-size="50"><tspan>Momen</tspan><tspan x="596" dy="54">Arman</tspan></text>
+</svg>
